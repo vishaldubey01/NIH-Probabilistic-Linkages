@@ -1,0 +1,12 @@
+crisp_data/
+datavant_results/
+acumen_results/
+exported_data/
+other_data/
+dataset_noisy_with_encodings_renamed.csv
+custom_hashed_datasetfull.csv
+dataset_without_noise_renamed.csv
+dataset_only_uniques_renamed.csv
+final_dataset_for_analysis.csv
+to_analyze.csv
+token picture
